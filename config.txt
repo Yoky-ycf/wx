@@ -21,7 +21,7 @@
 #星座配置
 
 "key":"6944c5dad6188523499feebcde7d9f05",
-"consName":"射手座",
+"consName":"天蝎座",
 
 #信息配置
 
