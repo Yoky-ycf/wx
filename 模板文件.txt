@@ -10,10 +10,19 @@
 {{humidity.DATA}}% 
 {{vis.DATA}} 
 喂，在今天的{{sunrise.DATA}}可以看到日出～ 
-那今天的日落呢？
-你猜是几点？ 
+那今天的日落呢？你猜是几点？ 
 ～当当当～在{{sunset.DATA}}就可以欣赏到美腻滴日落啦 
+
 今天是宝宝在地球上冒险的第{{index.DATA}}天 
 今天是我们恋爱的第{{love_day.DATA}}天 
-今天的星座运势如下： {{name.DATA}} {{QFriend.DATA}} {{color.DATA}} {{health.DATA}}分 {{love.DATA}}分 {{work.DATA}}分 {{money.DATA}}分 {{number.DATA}} 
+
+今天的星座运势如下： 
+{{name.DATA}} 
+{{QFriend.DATA}} 
+{{color.DATA}} 
+{{health.DATA}}分 
+{{love.DATA}}分 
+{{work.DATA}}分 
+{{money.DATA}}分 
+{{number.DATA}} 
 综合指数是：{{all.DATA}}分
