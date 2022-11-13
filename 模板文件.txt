@@ -25,4 +25,5 @@
 {{work.DATA}}分 
 {{money.DATA}}分 
 {{number.DATA}} 
+{{summary.DATA}}
 综合指数是：{{all.DATA}}分
